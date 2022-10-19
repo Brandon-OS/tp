@@ -8,6 +8,7 @@
 
 {Describe the design and implementation of the product. Use UML diagrams and short code snippets where applicable.}
 
+![img.png](img.png)
 
 ## Product scope
 ### Target user profile
